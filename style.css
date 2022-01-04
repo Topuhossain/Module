@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+}
+.module{
+    background-color: dimgrey;
+}
+.back{
+    background-color: gray;
+}
+.box{
+    border: 2px snow black;
+    height: 50%;
+    width: 40%;
+    margin: 10px 5px;
+    padding: 5px;
+}
